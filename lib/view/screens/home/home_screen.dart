@@ -50,6 +50,7 @@ class _HomeScreenState extends State<HomeScreen> {
           iconSize: 35,
           selectedFontSize: 16,
           unselectedFontSize: 14,
+
           showSelectedLabels: true,
           showUnselectedLabels: true ,
           type: BottomNavigationBarType.fixed ,
